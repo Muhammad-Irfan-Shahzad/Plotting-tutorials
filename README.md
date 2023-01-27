@@ -1,6 +1,6 @@
 # Plotting-tutorials
 All types of plotting use in data science
- Histogram
+ Histogram<br>
  Scatter plot
 # Heatmap
 # Pie chart
