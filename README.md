@@ -1,4 +1,4 @@
-# Plotting-tutorials
+Plotting-tutorials
 All types of plotting use in data science
 -Histogram
 -Scatter plot
